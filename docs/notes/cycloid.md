@@ -66,7 +66,7 @@ $$
 ## 微分方程
 
 $$
-(\frac{\{\rm d} y}{\{\rm d} x})^{2}
+(\frac{\mathrm{d} y}{\mathrm{d} x})^{2}
 =\frac{2r}{y}-1
 $$
 
@@ -74,8 +74,8 @@ $$
 
 $$
 \begin{align}
-(\frac{\{\rm d} y}{\{\rm d} x})^{2}
-&=(\frac{\frac{\{\rm d}y}{\{\rm d}t}}{\frac{\{\rm d}x}{\{\rm d}t}})^{2} \\
+(\frac{\mathrm{d} y}{\mathrm{d} x})^{2}
+&=(\frac{\frac{\mathrm{d}y}{\mathrm{d}t}}{\frac{\mathrm{d}x}{\mathrm{d}t}})^{2} \\
 &=(\frac{r\sin t}{r(1-\cos t)})^{2} \\
 &=\frac{\sin^{2} t}{(1+\cos t)^{2}} \\
 &=\frac{1-\cos t}{1+\cos t} \\
